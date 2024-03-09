@@ -1,6 +1,6 @@
 A simple java util for bypassing CORS problems on browsers in calling API.
 
-Just launch this utils on your pc:
+Just launch this utils in background on your pc:
 
 java -jar .\HttpCorsForwarder.jar 8080
 
